@@ -1,0 +1,73 @@
+﻿@model OlxAd.Models.Select
+
+
+
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>SelectAds</title>
+</head>
+<body>  
+    @using (Ajax.BeginForm("selectAds_post", "SelectAds", new AjaxOptions
+    {
+
+        HttpMethod = "POST",
+        UpdateTargetId = "ViewAds",
+        InsertionMode = InsertionMode.Replace
+    }))
+    {
+
+      @*@using (Html.BeginForm("selectAds_post", "SelectAds", FormMethod.Post))*@
+      
+        @Html.AntiForgeryToken()
+        @Html.ValidationSummary(true)
+
+        <fieldset>
+            <legend>Select</legend>
+
+
+
+            <div>
+
+                @{
+          List<SelectListItem> listItems = new List<SelectListItem>();
+          listItems.Add(new SelectListItem
+               {
+                   Text = "Mobiles",
+                   Value = "Mobiles"
+               });
+          listItems.Add(new SelectListItem
+               {
+                   Text = "Cars",
+                   Value = "Cars"
+
+               });
+          listItems.Add(new SelectListItem
+               {
+                   Text = "Bikes",
+                   Value = "Bikes"
+               });
+                }
+
+                @Html.DropDownListFor(model => model.Category, listItems, "Select ItemType", new { htmlAttributes = new { @class = "form-control", } })
+            </div>
+
+
+
+            <p>
+                <input type="submit" value="Select" />
+            </p>
+        </fieldset>
+          <div>
+        @Ajax.ActionLink("Back to Selecting Ads", "selectAds_get", "SelectAds", null, new AjaxOptions()
+   {
+       HttpMethod = "GET",
+       UpdateTargetId = "ViewAds",
+       InsertionMode = InsertionMode.Replace
+   })
+      
+    </div>
+      }
+
+  
+</body>
+

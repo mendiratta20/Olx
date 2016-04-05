@@ -1,0 +1,15 @@
+CREATE TABLE [dbo].[Employee] (
+    [EmpNo]       INT           IDENTITY (1, 1) NOT NULL,
+    [EmpName]     VARCHAR (100) NOT NULL,
+    [Salary]      INT           NOT NULL,
+    [DeptName]    VARCHAR (50)  NOT NULL,
+    [Designation] VARCHAR (50)  NOT NULL,
+    PRIMARY KEY CLUSTERED ([EmpNo] ASC)
+);
+
+
+
+
+enables to map incoming browser request
+
+MVC actions defined in controller

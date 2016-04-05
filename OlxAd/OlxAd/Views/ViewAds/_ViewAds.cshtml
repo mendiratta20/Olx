@@ -1,0 +1,37 @@
+﻿
+@using PagedList.Mvc;
+@model PagedList.IPagedList<OlxAd.Models.InsertAds>
+<link href="~/Content/PagedList.css" rel="stylesheet" />
+
+<table align="center" style="width:90%;height:75%">
+    <tr style="outline: thin solid">
+        <td style="outline: thin solid">
+            @*@Html.DisplayNameFor(model => model.Image)*@ Image
+        </td>
+        <td style="outline: thin solid">
+            @*@Html.DisplayNameFor(model => model.Address)*@ Address
+        </td>
+        <td style="outline: thin solid">
+            @*@Html.DisplayNameFor(model => model.Phone)*@ Phone
+        </td>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr style="outline: thin solid">
+            <td style="outline: thin solid">
+                <img src="@Url.Content(item.Image)" height="200" width="200" />
+            </td>
+            <td style="outline: thin solid">
+                @Html.DisplayFor(modelItem => item.Address)
+            </td>
+            <td style="outline: thin solid">
+                @Html.DisplayFor(modelItem => item.Phone)
+            </td>
+
+        </tr>
+    }
+</table>
+       
+
+@Html.PagedListPager(Model, page => Url.Action("_Ads", new { page,Category = @ViewBag.Category }),
+            PagedListRenderOptions.EnableUnobtrusiveAjaxReplacing(new AjaxOptions() { HttpMethod = "GET", UpdateTargetId = "divAds" }))

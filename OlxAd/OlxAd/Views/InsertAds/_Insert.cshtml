@@ -1,0 +1,109 @@
+﻿@using OlxAd.CustomHtmlHelpers
+@model OlxAd.Models.InsertAds
+
+<h2>Submit Ad</h2>
+
+
+
+@*@using (@Ajax.BeginForm("InsertAds_post","InsertAds",new { enctype = "multipart/form-data" },new AjaxOptions(){
+
+        HttpMethod="GET",
+        UpdateTargetId="ShowAds",
+        InsertionMode=InsertionMode.Replace
+    }))*@
+
+
+
+
+
+
+
+
+@using (@Html.BeginForm("InsertAds_post", "InsertAds", FormMethod.Post,
+    new { enctype = "multipart/form-data" }))
+{
+
+
+@*@using (Ajax.BeginForm("InsertAds_post", "InsertAds", new { enctype = "multipart/form-data" }, new AjaxOptions()
+        {*@
+
+            @*HttpMethod = "POST",
+            UpdateTargetId = "ShowAds",
+            InsertionMode = InsertionMode.Replace
+        }))*@
+//{
+
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>InsertAds</legend>
+        @Html.LabelFor(model => model.Image)
+       
+
+        <label for="file"></label>
+       
+            <input type="file" name="file" id="file" style="width: 100%; margin-left: 47%;" />
+    
+        <div class="editor-label">
+            @Html.LabelFor(model => model.ItemType)
+        </div>
+
+        <div class="editor-label">
+            @{
+    List<SelectListItem> listItems = new List<SelectListItem>();
+    listItems.Add(new SelectListItem
+         {
+             Text = "Mobiles",
+             Value = "Mobiles"
+         });
+    listItems.Add(new SelectListItem
+         {
+             Text = "Cars",
+             Value = "Cars"
+
+         });
+    listItems.Add(new SelectListItem
+         {
+             Text = "Bikes",
+             Value = "Bikes"
+         });
+            }
+
+            @Html.DropDownListFor(model => model.ItemType, listItems, "Select ItemType", new { htmlAttributes = new { @class = "form-control", } })
+        </div>
+
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Phone)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Phone)
+            @Html.ValidationMessageFor(model => model.Phone)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Address)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Address)
+            @Html.ValidationMessageFor(model => model.Address)
+        </div>
+        <input type="submit" value="Submit" style="margin-right:47%;" />
+
+    </fieldset>
+}
+@if (ViewBag.dataValid == 1)
+{
+
+    @Html.Label("Your Ad is submitted successfully")
+
+}
+else if (ViewBag.dataValid == 0)
+{
+    @Html.Label("Ad submission Failed")
+}
+
+
+
+

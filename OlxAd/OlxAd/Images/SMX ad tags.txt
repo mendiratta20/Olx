@@ -1,0 +1,43 @@
+SMX CODES
+Right sidebar top
+
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-1678504614728441";
+/* 300x 250_ABOVETHE FOLD */
+google_ad_slot = "9895275775/4365739015";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+Right sidebar down
+
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-1678504614728441";
+/* techuntold.com */
+google_ad_slot = "9895275775";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+bELOW THE post
+
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-1678504614728441";
+/* TECHUNTOLD_300X250_NEW */
+google_ad_slot = "9895275775/8511611095";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+         

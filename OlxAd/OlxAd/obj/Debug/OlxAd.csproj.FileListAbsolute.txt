@@ -1,0 +1,195 @@
+C:\Users\nikita.wadhwani\Desktop\OlxAd\OlxAd\bin\OlxAd.dll.config
+C:\Users\nikita.wadhwani\Desktop\OlxAd\OlxAd\bin\OlxAd.dll
+C:\Users\nikita.wadhwani\Desktop\OlxAd\OlxAd\bin\OlxAd.pdb
+C:\Users\nikita.wadhwani\Desktop\OlxAd\OlxAd\bin\Antlr3.Runtime.dll
+C:\Users\nikita.wadhwani\Desktop\OlxAd\OlxAd\bin\EntityFramework.dll
+C:\Users\nikita.wadhwani\Desktop\OlxAd\OlxAd\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nikita.wadhwani\Desktop\OlxAd\OlxAd\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\nikita.wadhwani\Desktop\OlxAd\OlxAd\bin\Newtonsoft.Json.dll
+C:\Users\nikita.wadhwani\Desktop\OlxAd\OlxAd\bin\System.Net.Http.dll
+C:\Users\nikita.wadhwani\Desktop\OlxAd\OlxAd\bin\System.Net.Http.Formatting.dll
+C:\Users\nikita.wadhwani\Desktop\OlxAd\OlxAd\bin\System.Net.Http.WebRequest.dll
+C:\Users\nikita.wadhwani\Desktop\OlxAd\OlxAd\bin\System.Web.Http.dll
+C:\Users\nikita.wadhwani\Desktop\OlxAd\OlxAd\bin\System.Web.Http.WebHost.dll
+C:\Users\nikita.wadhwani\Desktop\OlxAd\OlxAd\bin\System.Web.Mvc.dll
+C:\Users\nikita.wadhwani\Desktop\OlxAd\OlxAd\bin\System.Web.Optimization.dll
+C:\Users\nikita.wadhwani\Desktop\OlxAd\OlxAd\bin\System.Web.Providers.dll
+C:\Users\nikita.wadhwani\Desktop\OlxAd\OlxAd\bin\System.Web.Razor.dll
+C:\Users\nikita.wadhwani\Desktop\OlxAd\OlxAd\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nikita.wadhwani\Desktop\OlxAd\OlxAd\bin\System.Web.WebPages.dll
+C:\Users\nikita.wadhwani\Desktop\OlxAd\OlxAd\bin\System.Web.WebPages.Razor.dll
+C:\Users\nikita.wadhwani\Desktop\OlxAd\OlxAd\bin\WebGrease.dll
+C:\Users\nikita.wadhwani\Desktop\OlxAd\OlxAd\bin\EntityFramework.xml
+C:\Users\nikita.wadhwani\Desktop\OlxAd\OlxAd\bin\Newtonsoft.Json.xml
+C:\Users\nikita.wadhwani\Desktop\OlxAd\OlxAd\bin\System.Net.Http.xml
+C:\Users\nikita.wadhwani\Desktop\OlxAd\OlxAd\bin\System.Net.Http.Formatting.xml
+C:\Users\nikita.wadhwani\Desktop\OlxAd\OlxAd\bin\System.Net.Http.WebRequest.xml
+C:\Users\nikita.wadhwani\Desktop\OlxAd\OlxAd\bin\System.Web.Http.xml
+C:\Users\nikita.wadhwani\Desktop\OlxAd\OlxAd\bin\System.Web.Http.WebHost.xml
+C:\Users\nikita.wadhwani\Desktop\OlxAd\OlxAd\bin\System.Web.Mvc.xml
+C:\Users\nikita.wadhwani\Desktop\OlxAd\OlxAd\bin\System.Web.Razor.xml
+C:\Users\nikita.wadhwani\Desktop\OlxAd\OlxAd\bin\System.Web.WebPages.xml
+C:\Users\nikita.wadhwani\Desktop\OlxAd\OlxAd\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nikita.wadhwani\Desktop\OlxAd\OlxAd\bin\System.Web.WebPages.Razor.xml
+C:\Users\nikita.wadhwani\Desktop\OlxAd\OlxAd\obj\Debug\OlxAd.dll
+C:\Users\nikita.wadhwani\Desktop\OlxAd\OlxAd\obj\Debug\OlxAd.pdb
+C:\Users\hemant.ratta\Documents\Visual Studio 2013\Projects\OlxAd\OlxAd\bin\OlxAd.dll.config
+C:\Users\hemant.ratta\Documents\Visual Studio 2013\Projects\OlxAd\OlxAd\bin\OlxAd.dll
+C:\Users\hemant.ratta\Documents\Visual Studio 2013\Projects\OlxAd\OlxAd\bin\OlxAd.pdb
+C:\Users\hemant.ratta\Documents\Visual Studio 2013\Projects\OlxAd\OlxAd\bin\Antlr3.Runtime.dll
+C:\Users\hemant.ratta\Documents\Visual Studio 2013\Projects\OlxAd\OlxAd\bin\EntityFramework.dll
+C:\Users\hemant.ratta\Documents\Visual Studio 2013\Projects\OlxAd\OlxAd\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hemant.ratta\Documents\Visual Studio 2013\Projects\OlxAd\OlxAd\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\hemant.ratta\Documents\Visual Studio 2013\Projects\OlxAd\OlxAd\bin\Newtonsoft.Json.dll
+C:\Users\hemant.ratta\Documents\Visual Studio 2013\Projects\OlxAd\OlxAd\bin\PagedList.dll
+C:\Users\hemant.ratta\Documents\Visual Studio 2013\Projects\OlxAd\OlxAd\bin\PagedList.Mvc.dll
+C:\Users\hemant.ratta\Documents\Visual Studio 2013\Projects\OlxAd\OlxAd\bin\System.Net.Http.dll
+C:\Users\hemant.ratta\Documents\Visual Studio 2013\Projects\OlxAd\OlxAd\bin\System.Net.Http.Formatting.dll
+C:\Users\hemant.ratta\Documents\Visual Studio 2013\Projects\OlxAd\OlxAd\bin\System.Net.Http.WebRequest.dll
+C:\Users\hemant.ratta\Documents\Visual Studio 2013\Projects\OlxAd\OlxAd\bin\System.Web.Http.dll
+C:\Users\hemant.ratta\Documents\Visual Studio 2013\Projects\OlxAd\OlxAd\bin\System.Web.Http.WebHost.dll
+C:\Users\hemant.ratta\Documents\Visual Studio 2013\Projects\OlxAd\OlxAd\bin\System.Web.Mvc.dll
+C:\Users\hemant.ratta\Documents\Visual Studio 2013\Projects\OlxAd\OlxAd\bin\System.Web.Optimization.dll
+C:\Users\hemant.ratta\Documents\Visual Studio 2013\Projects\OlxAd\OlxAd\bin\System.Web.Providers.dll
+C:\Users\hemant.ratta\Documents\Visual Studio 2013\Projects\OlxAd\OlxAd\bin\System.Web.Razor.dll
+C:\Users\hemant.ratta\Documents\Visual Studio 2013\Projects\OlxAd\OlxAd\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hemant.ratta\Documents\Visual Studio 2013\Projects\OlxAd\OlxAd\bin\System.Web.WebPages.dll
+C:\Users\hemant.ratta\Documents\Visual Studio 2013\Projects\OlxAd\OlxAd\bin\System.Web.WebPages.Razor.dll
+C:\Users\hemant.ratta\Documents\Visual Studio 2013\Projects\OlxAd\OlxAd\bin\WebGrease.dll
+C:\Users\hemant.ratta\Documents\Visual Studio 2013\Projects\OlxAd\OlxAd\bin\PagedList.xml
+C:\Users\hemant.ratta\Documents\Visual Studio 2013\Projects\OlxAd\OlxAd\bin\PagedList.Mvc.xml
+C:\Users\hemant.ratta\Documents\Visual Studio 2013\Projects\OlxAd\OlxAd\bin\EntityFramework.xml
+C:\Users\hemant.ratta\Documents\Visual Studio 2013\Projects\OlxAd\OlxAd\bin\Newtonsoft.Json.xml
+C:\Users\hemant.ratta\Documents\Visual Studio 2013\Projects\OlxAd\OlxAd\bin\System.Net.Http.xml
+C:\Users\hemant.ratta\Documents\Visual Studio 2013\Projects\OlxAd\OlxAd\bin\System.Net.Http.Formatting.xml
+C:\Users\hemant.ratta\Documents\Visual Studio 2013\Projects\OlxAd\OlxAd\bin\System.Net.Http.WebRequest.xml
+C:\Users\hemant.ratta\Documents\Visual Studio 2013\Projects\OlxAd\OlxAd\bin\System.Web.Http.xml
+C:\Users\hemant.ratta\Documents\Visual Studio 2013\Projects\OlxAd\OlxAd\bin\System.Web.Http.WebHost.xml
+C:\Users\hemant.ratta\Documents\Visual Studio 2013\Projects\OlxAd\OlxAd\bin\System.Web.Mvc.xml
+C:\Users\hemant.ratta\Documents\Visual Studio 2013\Projects\OlxAd\OlxAd\bin\System.Web.Razor.xml
+C:\Users\hemant.ratta\Documents\Visual Studio 2013\Projects\OlxAd\OlxAd\bin\System.Web.WebPages.xml
+C:\Users\hemant.ratta\Documents\Visual Studio 2013\Projects\OlxAd\OlxAd\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hemant.ratta\Documents\Visual Studio 2013\Projects\OlxAd\OlxAd\bin\System.Web.WebPages.Razor.xml
+C:\Users\hemant.ratta\Documents\Visual Studio 2013\Projects\OlxAd\OlxAd\obj\Debug\OlxAd.dll
+C:\Users\hemant.ratta\Documents\Visual Studio 2013\Projects\OlxAd\OlxAd\obj\Debug\OlxAd.pdb
+C:\Users\hemant.ratta\Documents\Visual Studio 2013\Projects\OlxAd\OlxAd\obj\Debug\OlxAd.csprojResolveAssemblyReference.cache
+C:\Users\nikita.wadhwani\Desktop\nik\OlxAd\OlxAd\bin\OlxAd.dll.config
+C:\Users\nikita.wadhwani\Desktop\nik\OlxAd\OlxAd\bin\OlxAd.dll
+C:\Users\nikita.wadhwani\Desktop\nik\OlxAd\OlxAd\bin\OlxAd.pdb
+C:\Users\nikita.wadhwani\Desktop\nik\OlxAd\OlxAd\bin\Antlr3.Runtime.dll
+C:\Users\nikita.wadhwani\Desktop\nik\OlxAd\OlxAd\bin\EntityFramework.dll
+C:\Users\nikita.wadhwani\Desktop\nik\OlxAd\OlxAd\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nikita.wadhwani\Desktop\nik\OlxAd\OlxAd\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\nikita.wadhwani\Desktop\nik\OlxAd\OlxAd\bin\Newtonsoft.Json.dll
+C:\Users\nikita.wadhwani\Desktop\nik\OlxAd\OlxAd\bin\PagedList.dll
+C:\Users\nikita.wadhwani\Desktop\nik\OlxAd\OlxAd\bin\PagedList.Mvc.dll
+C:\Users\nikita.wadhwani\Desktop\nik\OlxAd\OlxAd\bin\System.Net.Http.dll
+C:\Users\nikita.wadhwani\Desktop\nik\OlxAd\OlxAd\bin\System.Net.Http.Formatting.dll
+C:\Users\nikita.wadhwani\Desktop\nik\OlxAd\OlxAd\bin\System.Net.Http.WebRequest.dll
+C:\Users\nikita.wadhwani\Desktop\nik\OlxAd\OlxAd\bin\System.Web.Http.dll
+C:\Users\nikita.wadhwani\Desktop\nik\OlxAd\OlxAd\bin\System.Web.Http.WebHost.dll
+C:\Users\nikita.wadhwani\Desktop\nik\OlxAd\OlxAd\bin\System.Web.Mvc.dll
+C:\Users\nikita.wadhwani\Desktop\nik\OlxAd\OlxAd\bin\System.Web.Optimization.dll
+C:\Users\nikita.wadhwani\Desktop\nik\OlxAd\OlxAd\bin\System.Web.Providers.dll
+C:\Users\nikita.wadhwani\Desktop\nik\OlxAd\OlxAd\bin\System.Web.Razor.dll
+C:\Users\nikita.wadhwani\Desktop\nik\OlxAd\OlxAd\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nikita.wadhwani\Desktop\nik\OlxAd\OlxAd\bin\System.Web.WebPages.dll
+C:\Users\nikita.wadhwani\Desktop\nik\OlxAd\OlxAd\bin\System.Web.WebPages.Razor.dll
+C:\Users\nikita.wadhwani\Desktop\nik\OlxAd\OlxAd\bin\WebGrease.dll
+C:\Users\nikita.wadhwani\Desktop\nik\OlxAd\OlxAd\bin\PagedList.xml
+C:\Users\nikita.wadhwani\Desktop\nik\OlxAd\OlxAd\bin\PagedList.Mvc.xml
+C:\Users\nikita.wadhwani\Desktop\nik\OlxAd\OlxAd\bin\EntityFramework.xml
+C:\Users\nikita.wadhwani\Desktop\nik\OlxAd\OlxAd\bin\Newtonsoft.Json.xml
+C:\Users\nikita.wadhwani\Desktop\nik\OlxAd\OlxAd\bin\System.Net.Http.xml
+C:\Users\nikita.wadhwani\Desktop\nik\OlxAd\OlxAd\bin\System.Net.Http.Formatting.xml
+C:\Users\nikita.wadhwani\Desktop\nik\OlxAd\OlxAd\bin\System.Net.Http.WebRequest.xml
+C:\Users\nikita.wadhwani\Desktop\nik\OlxAd\OlxAd\bin\System.Web.Http.xml
+C:\Users\nikita.wadhwani\Desktop\nik\OlxAd\OlxAd\bin\System.Web.Http.WebHost.xml
+C:\Users\nikita.wadhwani\Desktop\nik\OlxAd\OlxAd\bin\System.Web.Mvc.xml
+C:\Users\nikita.wadhwani\Desktop\nik\OlxAd\OlxAd\bin\System.Web.Razor.xml
+C:\Users\nikita.wadhwani\Desktop\nik\OlxAd\OlxAd\bin\System.Web.WebPages.xml
+C:\Users\nikita.wadhwani\Desktop\nik\OlxAd\OlxAd\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nikita.wadhwani\Desktop\nik\OlxAd\OlxAd\bin\System.Web.WebPages.Razor.xml
+C:\Users\nikita.wadhwani\Desktop\nik\OlxAd\OlxAd\obj\Debug\OlxAd.csprojResolveAssemblyReference.cache
+C:\Users\nikita.wadhwani\Desktop\nik\OlxAd\OlxAd\obj\Debug\OlxAd.dll
+C:\Users\nikita.wadhwani\Desktop\nik\OlxAd\OlxAd\obj\Debug\OlxAd.pdb
+C:\Users\nikita.wadhwani\Desktop\nik\New folder\OlxAd\OlxAd\bin\OlxAd.dll.config
+C:\Users\nikita.wadhwani\Desktop\nik\New folder\OlxAd\OlxAd\bin\OlxAd.dll
+C:\Users\nikita.wadhwani\Desktop\nik\New folder\OlxAd\OlxAd\bin\OlxAd.pdb
+C:\Users\nikita.wadhwani\Desktop\nik\New folder\OlxAd\OlxAd\bin\Antlr3.Runtime.dll
+C:\Users\nikita.wadhwani\Desktop\nik\New folder\OlxAd\OlxAd\bin\EntityFramework.dll
+C:\Users\nikita.wadhwani\Desktop\nik\New folder\OlxAd\OlxAd\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nikita.wadhwani\Desktop\nik\New folder\OlxAd\OlxAd\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\nikita.wadhwani\Desktop\nik\New folder\OlxAd\OlxAd\bin\Newtonsoft.Json.dll
+C:\Users\nikita.wadhwani\Desktop\nik\New folder\OlxAd\OlxAd\bin\PagedList.dll
+C:\Users\nikita.wadhwani\Desktop\nik\New folder\OlxAd\OlxAd\bin\PagedList.Mvc.dll
+C:\Users\nikita.wadhwani\Desktop\nik\New folder\OlxAd\OlxAd\bin\System.Net.Http.dll
+C:\Users\nikita.wadhwani\Desktop\nik\New folder\OlxAd\OlxAd\bin\System.Net.Http.Formatting.dll
+C:\Users\nikita.wadhwani\Desktop\nik\New folder\OlxAd\OlxAd\bin\System.Net.Http.WebRequest.dll
+C:\Users\nikita.wadhwani\Desktop\nik\New folder\OlxAd\OlxAd\bin\System.Web.Http.dll
+C:\Users\nikita.wadhwani\Desktop\nik\New folder\OlxAd\OlxAd\bin\System.Web.Http.WebHost.dll
+C:\Users\nikita.wadhwani\Desktop\nik\New folder\OlxAd\OlxAd\bin\System.Web.Mvc.dll
+C:\Users\nikita.wadhwani\Desktop\nik\New folder\OlxAd\OlxAd\bin\System.Web.Optimization.dll
+C:\Users\nikita.wadhwani\Desktop\nik\New folder\OlxAd\OlxAd\bin\System.Web.Providers.dll
+C:\Users\nikita.wadhwani\Desktop\nik\New folder\OlxAd\OlxAd\bin\System.Web.Razor.dll
+C:\Users\nikita.wadhwani\Desktop\nik\New folder\OlxAd\OlxAd\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nikita.wadhwani\Desktop\nik\New folder\OlxAd\OlxAd\bin\System.Web.WebPages.dll
+C:\Users\nikita.wadhwani\Desktop\nik\New folder\OlxAd\OlxAd\bin\System.Web.WebPages.Razor.dll
+C:\Users\nikita.wadhwani\Desktop\nik\New folder\OlxAd\OlxAd\bin\WebGrease.dll
+C:\Users\nikita.wadhwani\Desktop\nik\New folder\OlxAd\OlxAd\bin\PagedList.xml
+C:\Users\nikita.wadhwani\Desktop\nik\New folder\OlxAd\OlxAd\bin\PagedList.Mvc.xml
+C:\Users\nikita.wadhwani\Desktop\nik\New folder\OlxAd\OlxAd\bin\EntityFramework.xml
+C:\Users\nikita.wadhwani\Desktop\nik\New folder\OlxAd\OlxAd\bin\Newtonsoft.Json.xml
+C:\Users\nikita.wadhwani\Desktop\nik\New folder\OlxAd\OlxAd\bin\System.Net.Http.xml
+C:\Users\nikita.wadhwani\Desktop\nik\New folder\OlxAd\OlxAd\bin\System.Net.Http.Formatting.xml
+C:\Users\nikita.wadhwani\Desktop\nik\New folder\OlxAd\OlxAd\bin\System.Net.Http.WebRequest.xml
+C:\Users\nikita.wadhwani\Desktop\nik\New folder\OlxAd\OlxAd\bin\System.Web.Http.xml
+C:\Users\nikita.wadhwani\Desktop\nik\New folder\OlxAd\OlxAd\bin\System.Web.Http.WebHost.xml
+C:\Users\nikita.wadhwani\Desktop\nik\New folder\OlxAd\OlxAd\bin\System.Web.Mvc.xml
+C:\Users\nikita.wadhwani\Desktop\nik\New folder\OlxAd\OlxAd\bin\System.Web.Razor.xml
+C:\Users\nikita.wadhwani\Desktop\nik\New folder\OlxAd\OlxAd\bin\System.Web.WebPages.xml
+C:\Users\nikita.wadhwani\Desktop\nik\New folder\OlxAd\OlxAd\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nikita.wadhwani\Desktop\nik\New folder\OlxAd\OlxAd\bin\System.Web.WebPages.Razor.xml
+C:\Users\nikita.wadhwani\Desktop\nik\New folder\OlxAd\OlxAd\obj\Debug\OlxAd.csprojResolveAssemblyReference.cache
+C:\Users\nikita.wadhwani\Desktop\nik\New folder\OlxAd\OlxAd\obj\Debug\OlxAd.dll
+C:\Users\nikita.wadhwani\Desktop\nik\New folder\OlxAd\OlxAd\obj\Debug\OlxAd.pdb
+D:\prj\nik\New folder\OlxAd\OlxAd\bin\OlxAd.dll.config
+D:\prj\nik\New folder\OlxAd\OlxAd\bin\OlxAd.dll
+D:\prj\nik\New folder\OlxAd\OlxAd\bin\OlxAd.pdb
+D:\prj\nik\New folder\OlxAd\OlxAd\bin\Antlr3.Runtime.dll
+D:\prj\nik\New folder\OlxAd\OlxAd\bin\EntityFramework.dll
+D:\prj\nik\New folder\OlxAd\OlxAd\bin\Microsoft.Web.Infrastructure.dll
+D:\prj\nik\New folder\OlxAd\OlxAd\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\prj\nik\New folder\OlxAd\OlxAd\bin\Newtonsoft.Json.dll
+D:\prj\nik\New folder\OlxAd\OlxAd\bin\PagedList.dll
+D:\prj\nik\New folder\OlxAd\OlxAd\bin\PagedList.Mvc.dll
+D:\prj\nik\New folder\OlxAd\OlxAd\bin\System.Net.Http.dll
+D:\prj\nik\New folder\OlxAd\OlxAd\bin\System.Net.Http.Formatting.dll
+D:\prj\nik\New folder\OlxAd\OlxAd\bin\System.Net.Http.WebRequest.dll
+D:\prj\nik\New folder\OlxAd\OlxAd\bin\System.Web.Http.dll
+D:\prj\nik\New folder\OlxAd\OlxAd\bin\System.Web.Http.WebHost.dll
+D:\prj\nik\New folder\OlxAd\OlxAd\bin\System.Web.Mvc.dll
+D:\prj\nik\New folder\OlxAd\OlxAd\bin\System.Web.Optimization.dll
+D:\prj\nik\New folder\OlxAd\OlxAd\bin\System.Web.Providers.dll
+D:\prj\nik\New folder\OlxAd\OlxAd\bin\System.Web.Razor.dll
+D:\prj\nik\New folder\OlxAd\OlxAd\bin\System.Web.WebPages.Deployment.dll
+D:\prj\nik\New folder\OlxAd\OlxAd\bin\System.Web.WebPages.dll
+D:\prj\nik\New folder\OlxAd\OlxAd\bin\System.Web.WebPages.Razor.dll
+D:\prj\nik\New folder\OlxAd\OlxAd\bin\WebGrease.dll
+D:\prj\nik\New folder\OlxAd\OlxAd\bin\PagedList.xml
+D:\prj\nik\New folder\OlxAd\OlxAd\bin\PagedList.Mvc.xml
+D:\prj\nik\New folder\OlxAd\OlxAd\bin\EntityFramework.xml
+D:\prj\nik\New folder\OlxAd\OlxAd\bin\Newtonsoft.Json.xml
+D:\prj\nik\New folder\OlxAd\OlxAd\bin\System.Net.Http.xml
+D:\prj\nik\New folder\OlxAd\OlxAd\bin\System.Net.Http.Formatting.xml
+D:\prj\nik\New folder\OlxAd\OlxAd\bin\System.Net.Http.WebRequest.xml
+D:\prj\nik\New folder\OlxAd\OlxAd\bin\System.Web.Http.xml
+D:\prj\nik\New folder\OlxAd\OlxAd\bin\System.Web.Http.WebHost.xml
+D:\prj\nik\New folder\OlxAd\OlxAd\bin\System.Web.Mvc.xml
+D:\prj\nik\New folder\OlxAd\OlxAd\bin\System.Web.Razor.xml
+D:\prj\nik\New folder\OlxAd\OlxAd\bin\System.Web.WebPages.xml
+D:\prj\nik\New folder\OlxAd\OlxAd\bin\System.Web.WebPages.Deployment.xml
+D:\prj\nik\New folder\OlxAd\OlxAd\bin\System.Web.WebPages.Razor.xml
+D:\prj\nik\New folder\OlxAd\OlxAd\obj\Debug\OlxAd.csprojResolveAssemblyReference.cache
+D:\prj\nik\New folder\OlxAd\OlxAd\obj\Debug\OlxAd.dll
+D:\prj\nik\New folder\OlxAd\OlxAd\obj\Debug\OlxAd.pdb

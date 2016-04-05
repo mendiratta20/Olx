@@ -1,0 +1,221 @@
+﻿body {
+    font-size: .85em;
+    font-family: "Segoe UI", Verdana, Helvetica, Sans-Serif;
+    color: #232323;
+    background-color: #fff;
+  
+}
+
+header, footer, nav, section {
+    display: block;
+}
+
+
+/* Styles for basic forms
+-----------------------------------------------------------*/
+fieldset {
+    border: 1px solid #ddd;
+    padding: 0 1.4em 1.4em 1.4em;
+    margin: 0 0 1.5em 0;
+}
+
+legend {
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+textarea {
+    min-height: 75px;
+}
+
+.editor-label {
+    margin: 1em 0 0 0;
+}
+
+.editor-field {
+    margin: 0.5em 0 0 0;
+}
+
+
+/* Styles for validation helpers
+-----------------------------------------------------------*/
+.field-validation-error {
+    color: #f00;
+}
+
+.field-validation-valid {
+    display: none;
+}
+
+.input-validation-error {
+    border: 1px solid #f00;
+    background-color: #fee;
+}
+
+.validation-summary-errors {
+    font-weight: bold;
+    color: #f00;
+}
+
+.validation-summary-valid {
+    display: none;
+}
+
+
+.inputclass
+{
+ width:100px;
+ height:25px;
+} 
+
+#container {
+position: fixed;
+width: 340px;
+height: 280px;
+top: 50%;
+left: 50%;
+margin-top: -140px;
+margin-left: -170px;
+background: #fff;
+ border-radius: 3px;
+ border: 1px solid #ccc;
+ box-shadow: 0 1px 2px rgba(0, 0, 0, .1);
+}
+
+form {
+    margin: 0 auto;
+    margin-top: 20px;
+}
+label {
+    color: #555;
+    display: inline-block;
+    margin-left: 18px;
+    padding-top: 10px;
+    font-size: 14px;
+}
+
+
+html, body {   
+ width: 100%;   
+height: 100%;   
+font-family: "Helvetica Neue", Helvetica, sans-serif;   
+color: #444;   
+-webkit-font-smoothing: antialiased;    
+}
+
+p a {
+    font-size: 11px;
+    color: #aaa;
+    float: right;
+    margin-top: -13px;
+    margin-right: 20px;
+}
+p a:hover {
+    color: #555;
+}
+input {
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 12px;
+    outline: none;
+}
+input[type=text],
+input[type=password] 
+{
+    color: #777;
+    padding-left: 10px;
+    margin: 10px;
+    margin-top: 12px;
+    margin-left: 18px;
+    width: 290px;
+    height: 35px;
+    border: 1px solid #c7d0d2;
+    border-radius: 2px;
+    box-shadow: inset 0 1.5px 3px rgba(190, 190, 190, .4), 0 0 0 5px #f5f7f8;
+}
+input[type=submit] {
+    float:right;
+    margin-right: 20px;
+    margin-top: 20px;
+    width: 80px;
+    height: 30px;
+     font-size: 14px;
+    font-weight: bold;
+    color: #fff;
+    background-color:  #0000a0; /*IE fallback*/
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#0000a0), to(#6ec2e8));
+    background-image: -moz-linear-gradient(top left 90deg, #0000a0 0%, #6ec2e8 100%);
+    background-image: linear-gradient(top left 90deg, #0000a0 0%, #6ec2e8 100%);
+    border-radius: 30px;
+    border: 1px solid #66add6;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, .3), inset 0 1px 0 rgba(255, 255, 255, .5);
+    cursor: pointer;
+}
+
+h1 {
+    font-size: 36px;
+    line-height: 40px;
+    background-color: #0000A0;
+     background-image: -webkit-gradient(linear, left top, left bottom, from(#0000a0), to(#6ec2e8));
+    background-image: -moz-linear-gradient(top left 90deg, #0000a0 0%, #6ec2e8 100%);
+    background-image: linear-gradient(top left 90deg, #0000a0 0%, #6ec2e8 100%);
+     color: #fff;
+}
+
+h2 {
+    font-size: 30px;
+    line-height: 40px;
+    background-color: #0000A0;
+     background-image: -webkit-gradient(linear, left top, left bottom, from(#0000a0), to(#6ec2e8));
+    background-image: -moz-linear-gradient(top left 90deg, #0000a0 0%, #6ec2e8 100%);
+    background-image: linear-gradient(top left 90deg, #0000a0 0%, #6ec2e8 100%);
+     color: #fff;
+}
+
+h3 {
+    font-size: 24px;
+    line-height: 40px;
+    background-color: #0000A0;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#0000a0), to(#6ec2e8));
+    background-image: -moz-linear-gradient(top left 90deg, #0000a0 0%, #6ec2e8 100%);
+    background-image: linear-gradient(top left 90deg, #0000a0 0%, #6ec2e8 100%);
+     color: #fff;
+}
+
+h4 {
+    font-size: 18px;
+    line-height: 20px;
+}
+.topcorner{
+    position:absolute;
+    top:50px;
+    right: 10px;
+ }
+.backgroundlogin{
+      background: url("http://worldmaritimenews.com/wp-content/uploads/2013/03/Aveva-World-User-Meeting-2013-Kicks-Off-in-Brazil.jpg") left no-repeat , url("http://s3-ap-southeast-2.amazonaws.com/wh1.thewebconsole.com/wh/1383/images/Buy-Sell-Agreement.jpg") top right no-repeat;
+     background-size: 600px 900px, auto;
+   
+}
+.home{
+    text-align:center;
+  
+    margin-top:120px;
+    margin-bottom:50px;
+}
+.ajaxlink
+{
+    font: bold 11px Arial;
+  text-decoration: none;
+  color: #fff;
+  padding: 2px 6px 2px 6px;
+  border-top: 1px solid #CCCCCC;
+  border-right: 1px solid #333333;
+  border-bottom: 1px solid #333333;
+  border-left: 1px solid #CCCCCC;
+  width: 80px;
+    height: 30px;
+     font-size: 14px;
+   background-color: #0000A0;
+     background-image: -webkit-gradient(linear, left top, left bottom, from(#0000a0), to(#6ec2e8));
+    background-image: -moz-linear-gradient(top left 90deg, #0000a0 0%, #6ec2e8 100%);
+    background-image: linear-gradient(top left 90deg, #0000a0 0%, #6ec2e8 100%);
+}
