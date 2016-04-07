@@ -3,34 +3,16 @@
 @{
     ViewBag.Title = "Login";
 }
-
-<body class="backgroundlogin">
-    <div id="container">
-        <h2>Login</h2>
-        @using (Html.BeginForm("Login", "Registration", FormMethod.Post))
-        {
-
-            @Html.LabelFor(model => model.Name)
-            @Html.TextBoxFor(model => model.Name, new { @class = "inputclass" })
-            <br />
-
-            @Html.LabelFor(model => model.Password)
-            @Html.PasswordFor(model => model.Password, new { @class = "inputclass" })
-
-            <br />
-            <input type="submit" value="Login" />
-            <br />
+<script src="~/Scripts/angular.js"></script>
+<script src="~/Scripts/angular-route.js"></script>
+<script src="~/App/app.js"></script>
+<script src="~/App/Scripts/LoginController.js"></script>
+<script src="~/App/Scripts/HomeController.js"></script>
+<script src="~/App/Scripts/ViewAdsController.js"></script>
+<script src="~/App/Scripts/Filter.js"></script>
+<body >
+    <div ng-view>
 
 
-            if (ViewBag.isVisible == 1)
-            {
-
-                @Html.Label("Incorrect User Name OR Password")
-
-            }
-            <br />
-            @Html.ActionLink("Not a Member? Register Now", "Register")
-
-        }
     </div>
 </body>

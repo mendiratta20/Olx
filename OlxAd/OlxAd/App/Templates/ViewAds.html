@@ -1,0 +1,44 @@
+﻿
+<link href="../../Content/PagedList.css" rel="stylesheet" />
+
+<table align="center" style="width:90%;height:75%">
+    <tr style="outline: thin solid">
+
+
+        <td style="outline: thin solid">
+             Image
+        </td>
+        <td style="outline: thin solid">
+      Address
+        </td>
+        <td style="outline: thin solid">
+     Phone
+        </td>
+    </tr>
+
+   
+
+    <tr ng-repeat="item in InsertAds" style="outline: thin solid">
+        <td style="outline: thin solid">
+            <img ng-src="../../Images/{{item.Image}}" style="height: 200px; width:200px" />
+
+        </td>
+
+        <td style="outline: thin solid">
+            {{ item.Address}}
+        </td>
+        <td style="outline: thin solid">
+            {{ item.Phone }}
+        </td>
+
+
+
+    </tr>
+
+
+
+    
+</table>
+
+
+

@@ -193,3 +193,43 @@ D:\prj\nik\New folder\OlxAd\OlxAd\bin\System.Web.WebPages.Razor.xml
 D:\prj\nik\New folder\OlxAd\OlxAd\obj\Debug\OlxAd.csprojResolveAssemblyReference.cache
 D:\prj\nik\New folder\OlxAd\OlxAd\obj\Debug\OlxAd.dll
 D:\prj\nik\New folder\OlxAd\OlxAd\obj\Debug\OlxAd.pdb
+D:\OlxGit\OlxAd\OlxAd\bin\OlxAd.dll.config
+D:\OlxGit\OlxAd\OlxAd\bin\OlxAd.dll
+D:\OlxGit\OlxAd\OlxAd\bin\OlxAd.pdb
+D:\OlxGit\OlxAd\OlxAd\bin\Antlr3.Runtime.dll
+D:\OlxGit\OlxAd\OlxAd\bin\EntityFramework.dll
+D:\OlxGit\OlxAd\OlxAd\bin\Microsoft.Web.Infrastructure.dll
+D:\OlxGit\OlxAd\OlxAd\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\OlxGit\OlxAd\OlxAd\bin\Newtonsoft.Json.dll
+D:\OlxGit\OlxAd\OlxAd\bin\PagedList.dll
+D:\OlxGit\OlxAd\OlxAd\bin\PagedList.Mvc.dll
+D:\OlxGit\OlxAd\OlxAd\bin\System.Net.Http.dll
+D:\OlxGit\OlxAd\OlxAd\bin\System.Net.Http.Formatting.dll
+D:\OlxGit\OlxAd\OlxAd\bin\System.Net.Http.WebRequest.dll
+D:\OlxGit\OlxAd\OlxAd\bin\System.Web.Http.dll
+D:\OlxGit\OlxAd\OlxAd\bin\System.Web.Http.WebHost.dll
+D:\OlxGit\OlxAd\OlxAd\bin\System.Web.Mvc.dll
+D:\OlxGit\OlxAd\OlxAd\bin\System.Web.Optimization.dll
+D:\OlxGit\OlxAd\OlxAd\bin\System.Web.Providers.dll
+D:\OlxGit\OlxAd\OlxAd\bin\System.Web.Razor.dll
+D:\OlxGit\OlxAd\OlxAd\bin\System.Web.WebPages.Deployment.dll
+D:\OlxGit\OlxAd\OlxAd\bin\System.Web.WebPages.dll
+D:\OlxGit\OlxAd\OlxAd\bin\System.Web.WebPages.Razor.dll
+D:\OlxGit\OlxAd\OlxAd\bin\WebGrease.dll
+D:\OlxGit\OlxAd\OlxAd\bin\PagedList.xml
+D:\OlxGit\OlxAd\OlxAd\bin\PagedList.Mvc.xml
+D:\OlxGit\OlxAd\OlxAd\bin\EntityFramework.xml
+D:\OlxGit\OlxAd\OlxAd\bin\Newtonsoft.Json.xml
+D:\OlxGit\OlxAd\OlxAd\bin\System.Net.Http.xml
+D:\OlxGit\OlxAd\OlxAd\bin\System.Net.Http.Formatting.xml
+D:\OlxGit\OlxAd\OlxAd\bin\System.Net.Http.WebRequest.xml
+D:\OlxGit\OlxAd\OlxAd\bin\System.Web.Http.xml
+D:\OlxGit\OlxAd\OlxAd\bin\System.Web.Http.WebHost.xml
+D:\OlxGit\OlxAd\OlxAd\bin\System.Web.Mvc.xml
+D:\OlxGit\OlxAd\OlxAd\bin\System.Web.Razor.xml
+D:\OlxGit\OlxAd\OlxAd\bin\System.Web.WebPages.xml
+D:\OlxGit\OlxAd\OlxAd\bin\System.Web.WebPages.Deployment.xml
+D:\OlxGit\OlxAd\OlxAd\bin\System.Web.WebPages.Razor.xml
+D:\OlxGit\OlxAd\OlxAd\obj\Debug\OlxAd.csprojResolveAssemblyReference.cache
+D:\OlxGit\OlxAd\OlxAd\obj\Debug\OlxAd.dll
+D:\OlxGit\OlxAd\OlxAd\obj\Debug\OlxAd.pdb

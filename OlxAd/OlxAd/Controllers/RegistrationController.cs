@@ -52,7 +52,7 @@ namespace OlxAd.Controllers
                     }
 
                     return View("Register", Reg);
-                    //RedirectToAction("Login");//redirect to home page
+                   
                 }
                 else
                 return View("Register", Reg);
@@ -75,10 +75,10 @@ namespace OlxAd.Controllers
 
 
         [HttpPost, ActionName("Login")]
-        public ActionResult Login_Post(Users user)
+        public bool Login_Post(Users user)
         {
-            bool result;
-          //  string username;
+            bool result=false;
+       
            
             try
             {             
@@ -93,19 +93,22 @@ namespace OlxAd.Controllers
                     Session["UserName"] = user.Name;
                   
                      Session["UserNo"] = new DBData().FetchUserNo(Session["UserName"].ToString());
-                    return View("Home");
+                     result = true;
+                   // return View("Home");
                 }
                 else
                 {
                     ViewBag.isVisible = 1;
-                    return View("Login");
+                    result = false;
+                   //return View("Login");
                 }
             }
             catch
             {
                 ViewBag.isVisible = 1;
-                return View();
+              //  return View();
             }
+            return result;
         }
 
 

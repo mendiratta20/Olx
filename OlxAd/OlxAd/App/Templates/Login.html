@@ -1,0 +1,41 @@
+﻿<link href="../../Content/Site.css" rel="stylesheet" />
+
+
+    <div id="container" class="backgroundlogin">
+    <h2>Login</h2>
+
+
+
+    <!--@*@using (Html.BeginForm("Login", "Registration", FormMethod.Post))
+    {
+
+    @Html.LabelFor(model => model.Name)
+    @Html.TextBoxFor(model => model.Name, new { @class = "inputclass" })
+    <br />
+
+    @Html.LabelFor(model => model.Password)
+    @Html.PasswordFor(model => model.Password, new { @class = "inputclass" })
+
+    <br />
+    <input type="submit" value="Login" />
+    <br />
+
+
+    if (ViewBag.isVisible == 1)
+    {
+
+    @Html.Label("Incorrect User Name OR Password")
+
+    }
+    <br />
+    @Html.ActionLink("Not a Member? Register Now", "Register")
+
+    }*@-->
+    Username <input type="text" name="username" ng-model="Users.Name"><br>
+    Password <input type="password" name="pwd" ng-model="Users.Password"><br>
+    <button type="submit" ng-click="Login(Users)">Login</button>
+
+</div>
+
+   
+
